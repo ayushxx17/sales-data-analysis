@@ -58,4 +58,13 @@ plt.title("Total Sales per Product")
 plt.show()
 
 
+##  Screenshots
+
+### 🔹 Sales Trend Over Time  
+![Sales Trend](screenshots/sales_trend.png)
+
+### 🔹 Total Sales by Product  
+![Total Sales](screenshots/total_sales_bar.png)
+
+
 
