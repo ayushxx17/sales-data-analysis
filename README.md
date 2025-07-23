@@ -56,3 +56,6 @@ df['Total Sales'] = df['Units Sold'] * df['Price']
 plt.bar(df['Product'], df['Total Sales'])
 plt.title("Total Sales per Product")
 plt.show()
+
+![Total Sales](screenshots/total_sales.png)
+
